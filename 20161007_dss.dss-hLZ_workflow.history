@@ -4,8 +4,6 @@
 
 ```ssh klfurtado@cabernet.genomecenter.ucdavis.edu```
 
-Password: Will be prompted to enter password
-
 If personal account is not working, use:
 
 ```ssh eamaga@cabernet.genomecenter.ucdavis.edu```
@@ -28,8 +26,6 @@ From terminal on local computer:
 Logged in using personal username and password:
 
 ``` ssh klfurtado@cabernet.genomecenter.ucdavis.edu```
-
-Prompted to enter password: Ydm.M6.z
 
 Change into directory:
 
