@@ -1,1 +1,0 @@
-filter_fasta.py -f <input_fasta> -o <output_fasta> -s < path to chimeric_seqs.txt> -n
